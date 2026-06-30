@@ -5,7 +5,6 @@
 
   <p align="center">
     <img src="https://img.shields.io/badge/Study-Computer%20Science-4B8BBE?style=for-the-badge&logo=book" />
-    <img src="https://img.shields.io/badge/Focus-Full-Stack%20Development-FF6B6B?style=for-the-badge" />
     <img src="https://img.shields.io/badge/Status-Open%20to%20Learn-2ECC71?style=for-the-badge" />
   </p>
 
@@ -20,7 +19,6 @@
 
 - 👨‍🎓 Currently pursuing a bachelor's degree in **Computer Science** at **South China Normal University**. Now in the **third year** of university study.
 - 👨‍💻 Interested in **full-stack development** and **web application development**.
-- 💪 Learning **Spring Boot**, **Vue**, **JavaScript**, **Java** recently.
 
 ------
 
@@ -43,9 +41,6 @@
 
 ##### IDE
 [![My Skills](https://skillicons.dev/icons?i=idea,vscode)](https://skillicons.dev)
-
-##### AI Tools
-[![My Skills](https://skillicons.dev/icons?i=claudecode,codex)](https://skillicons.dev)
 
 ------
 
