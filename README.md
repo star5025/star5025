@@ -1,6 +1,18 @@
-<h2 align="center"><em>Hi, there!</em> 👋</h2>
+<div align="center" style="padding: 24px 20px; margin: 8px 0 20px; border-radius: 20px; background: linear-gradient(135deg, #0f172a 0%, #111827 45%, #2563eb 100%); box-shadow: 0 0 30px rgba(56, 189, 248, 0.25); border: 1px solid rgba(125, 211, 252, 0.35);">
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7C4DFF&center=true&vCenter=true&width=600&lines=Hi%2C+there!;I'm+Zida;Full-stack+Developer" alt="Typing SVG" />
+  </p>
 
-<h3 align="center"> I'm Zida.<h3>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Study-Computer%20Science-4B8BBE?style=for-the-badge&logo=book" />
+    <img src="https://img.shields.io/badge/Focus-Full-Stack%20Development-FF6B6B?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Status-Open%20to%20Learn-2ECC71?style=for-the-badge" />
+  </p>
+
+  <h2 align="center"><em>Hi, there!</em> 👋</h2>
+
+  <h3 align="center"> I'm Zida.<h3>
+</div>
 
 ------
 
@@ -15,30 +27,31 @@
 ### Tech & Tools 🛠️
 
 ##### Front-end
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,vue,react,vite)](https://skillicons.dev)
 
 ##### Back-end
-[![My Skills](https://skillicons.dev/icons?i=java,python,c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,nodejs,spring)](https://skillicons.dev)
 
 ##### Database
 [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 
 ##### Framework
-[![My Skills](https://skillicons.dev/icons?i=vue,spring)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vue,spring,react)](https://skillicons.dev)
 
 ##### Tool
-[![My Skills](https://skillicons.dev/icons?i=git,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,docker,maven)](https://skillicons.dev)
 
 ##### IDE
 [![My Skills](https://skillicons.dev/icons?i=idea,vscode)](https://skillicons.dev)
+
+##### AI Tools
+[![My Skills](https://skillicons.dev/icons?i=claudecode,codex)](https://skillicons.dev)
 
 ------
 
 ### Todo 🗒️
 
-- [ ] course project based on Vue + Spring Boot
 - [ ] blog website
-- [ ] desktop application learning project
 
 ### Contact me 📮
 
@@ -48,5 +61,8 @@
 
 ------
 
-[![star5025's GitHub stats](https://github-readme-stats.vercel.app/api?username=star5025&show_icons=true&theme=radical)]
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=star5025&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=star5025&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
 
